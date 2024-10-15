@@ -34,6 +34,7 @@ elif st.session_state["authentication_status"] == None:
 
 if st.button("Register"):
     st.switch_page("pages/register.py")
-    
+
+# python version >= 3.8.10
 # pip install -r requirements.txt
 # streamlit run /Users/william/Documents/NoFoodWaste/login.py --client.showSidebarNavigation=False
