@@ -1,0 +1,39 @@
+cookie:
+  expiry_days: 30
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    jeremy:
+      email: balls@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Jeremy
+      password: $2b$12$Gcb4tjoWFz8U4G90tOG1s.mFG8.9HyfOszmoEz76ZZzmwnQaMCZfi
+    johanjohan:
+      email: johan@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: johan
+      password: $2b$12$qiWALWXVsnf3KJa2eMBGmOXw2ALFb0.p3ZEcHYIBaYy0BPsEinKay
+    jsmith:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$knzIT9mwMXLJem3Dx2d3buCAUZ4rXQRLddqgTbEXC3xn0p.P3dPKK
+    viriya:
+      email: viriya@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: viriya halim
+      password: $2b$12$PCCt8hVqVaNY9nvPSnCPiuSJhjCyrGtKTUHgoOprbtbhRMy1zhOT.
+    william:
+      email: williamvhalim@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: william halim
+      password: $2b$12$Aw/AQjk2l048lY8NEKzkhefdy7jTRAX3ke.QSM4gO1fp20xAMW5lG
+preauthorized:
+  emails:
+  - melsby@gmail.com

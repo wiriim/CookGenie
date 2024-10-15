@@ -1,0 +1,8 @@
+streamlit==1.33
+datasets==1.11.0
+transformers==4.9.2
+torch
+Pillow
+requests
+streamlit_authenticator==0.3.2
+streamlit_navigation_bar
